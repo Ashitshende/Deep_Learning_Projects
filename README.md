@@ -1,5 +1,5 @@
 # Deep_Learning_Projects
-This repository contains a collection of Deep learning projects developed using various frameworks and libraries. Each project is designed to demonstrate different aspects of deep learning, including neural network architectures, training techniques, and application domains.
+This repository contains a collection of Deep learning projects developed using various libraries. Each project is designed to demonstrate different aspects of deep learning, including Artificial neural network architectures, training techniques, and application domains.
 
 ## Table of Contents
 1. Project 1
