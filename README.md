@@ -12,4 +12,9 @@ dataset description-"https://www.kaggle.com/competitions/crowdflower-weather-twi
 
 Libraries:numpy,pandas,matplotlib.pyplot,seaborn,scikit learn,keras,Tensorflow
 
-## 
+## Project 2: Cat Vs Dog Image Classification using CNN
+In this project we successfully built a CNN classifier to distinguish between images of dogs and cats. With careful preprocessing, hyperparameter tuning,Callabcks and regularization, the model achieved a test accuracy of 0.8788. Further improvements in image size and hyperparameter tuning and reduction in overfitting could potentially enhance accuracy.the project demonstrates the effectiveness of deep learning in Python for image classification tasks.
+dataset description-"https://www.kaggle.com/competitions/dogs-vs-cats?rvi=1"
+
+Libraries:numpy,pandas,matplotlib.pyplot,seaborn,scikit learn,keras,Tensorflow
+
